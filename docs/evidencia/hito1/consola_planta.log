@@ -1,0 +1,19 @@
+﻿2026-11-04 22:16:49.565 [planta] conectado a localhost:1883
+2026-11-04 22:16:49.567 [planta] escenario 'demo' con 4 cambios programados (el gemelo no los conoce). Ts=0.05s, velocidad x1.0
+2026-11-04 22:16:49.567 [planta] registro en C:\Users\PC Enzo\Desktop\Universidad\Semestre 2 2026\Ciberfisicos\Proyecto\docs\evidencia\hito1
+2026-11-04 22:16:49.568 [planta] k=    0 t=    0.0s  V=11.56  w=  0.09  i=-0.04  | R=1.08  L=0.21  K=0.48  J=0.056  b=0.046
+2026-11-04 22:16:59.568 [planta] k=  200 t=   10.0s  V= 6.41  w= 11.05  i= 0.91  | R=1.08  L=0.21  K=0.48  J=0.056  b=0.046
+2026-11-04 22:17:09.568 [planta] k=  400 t=   20.0s  V=11.34  w= 16.95  i= 2.39  | R=1.08  L=0.21  K=0.48  J=0.056  b=0.046
+2026-11-04 22:17:19.568 [planta] k=  600 t=   30.0s  V= 5.53  w=  9.44  i= 0.84  | R=1.08  L=0.21  K=0.48  J=0.056  b=0.046
+2026-11-04 22:17:29.567 [planta] k=  800 t=   40.0s  V=11.50  w= 19.83  i= 1.84  | R=1.08  L=0.21  K=0.48  J=0.056  b=0.046
+2026-11-04 22:17:39.568 [planta] k= 1000 t=   50.0s  V= 6.02  w=  9.54  i= 2.40  | R=1.08  L=0.21  K=0.48  J=0.056  b=0.046
+2026-11-04 22:17:49.568 [planta] t=  60.00s  CAMBIO SIN AVISO: J 0.056 -> 0.0896 (x1.60, escalon)  Se acopla una carga (aumenta la inercia)
+2026-11-04 22:17:49.568 [planta] k= 1200 t=   60.0s  V=11.03  w= 19.73  i= 1.85  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:17:59.568 [planta] k= 1400 t=   70.0s  V= 7.46  w= 12.82  i= 1.26  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:18:09.568 [planta] k= 1600 t=   80.0s  V= 5.61  w=  9.56  i= 0.99  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:18:19.568 [planta] k= 1800 t=   90.0s  V= 3.30  w= 15.70  i= 0.26  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:18:29.568 [planta] k= 2000 t=  100.0s  V= 2.21  w=  3.67  i= 0.29  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:18:39.568 [planta] k= 2200 t=  110.0s  V= 6.16  w= 10.57  i= 0.87  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:18:49.568 [planta] t= 120.00s  CAMBIO SIN AVISO: R 1.08 -> 1.512 (x1.40, en rampa de 60s)  Calentamiento del bobinado
+2026-11-04 22:18:49.568 [planta] k= 2400 t=  120.0s  V= 7.36  w= 12.68  i= 1.18  | R=1.08  L=0.21  K=0.48  J=0.0896  b=0.046
+2026-11-04 22:18:59.568 [planta] deteniendo (2600 muestras publicadas)

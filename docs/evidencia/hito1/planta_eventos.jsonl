@@ -1,0 +1,2 @@
+{"param": "J", "factor": 1.6, "desc": "Se acopla una carga (aumenta la inercia)", "t_inicio": 60.0, "t_fin": 60.0, "valor_inicial": 0.056, "valor_final": 0.08960000000000001, "tipo": "escalon"}
+{"param": "R", "factor": 1.4, "desc": "Calentamiento del bobinado", "t_inicio": 120.0, "t_fin": 180.0, "valor_inicial": 1.08, "valor_final": 1.512, "tipo": "rampa"}

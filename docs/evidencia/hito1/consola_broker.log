@@ -1,0 +1,8 @@
+2026-11-04 22:16:45.040 [broker] escuchando en localhost:1883  (Ctrl+C para detener)
+2026-11-04 22:16:48.285 [broker] conectado gemelo-17c24a
+2026-11-04 22:16:48.468 [broker] conectado dashboard-6ee57e
+2026-11-04 22:16:49.564 [broker] conectado planta-7f8c89
+2026-11-04 22:18:07.000 [broker] desconectado dashboard-6ee57e
+2026-11-04 22:18:59.568 [broker] desconectado planta-7f8c89
+2026-11-04 22:19:01.673 [broker] conexión cerrada (ConnectionResetError: [WinError 64] El nombre de red especificado ya no está disponible)
+2026-11-04 22:19:01.681 [broker] desconectado gemelo-17c24a (abrupto)

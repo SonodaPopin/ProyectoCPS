@@ -1,0 +1,10 @@
+2026-11-04 22:16:48.286 [gemelo] conectado a localhost:1883
+2026-11-04 22:16:48.288 [gemelo] parámetros nominales (datos de placa): {'R': 1.0, 'L': 0.2, 'K': 0.5, 'J': 0.05, 'b': 0.05}
+2026-11-04 22:16:48.291 [gemelo] umbral DI = 1.697 (ventana 40 muestras, alfa=0.0001); registro en C:\Users\PC Enzo\Desktop\Universidad\Semestre 2 2026\Ciberfisicos\Proyecto\docs\evidencia\hito1
+2026-11-04 22:16:48.293 [gemelo] esperando mediciones de la planta...
+2026-11-04 22:16:49.567 [gemelo] planta online
+2026-11-04 22:17:09.537 [gemelo] t=  19.95s  CALIBRACION INICIAL: R=1.079  L=0.2103  K=0.4803  J=0.05612  b=0.04605  (DI ajuste=0.99, 400 muestras, 18 ms)
+2026-11-04 22:17:50.718 [gemelo] t=  61.15s  DRIFT DETECTADO por CUSUM (DI=2.41, umbral=1.70, CUSUM=48.3); cambio estimado en t=60.30s
+2026-11-04 22:17:57.826 [gemelo] t=  68.25s  RECALIBRADO: R=1.074  L=0.2056  K=0.4803  J=0.09059  b=0.04608  (DI ajuste=0.90, 160 muestras, 7 ms)
+2026-11-04 22:18:55.418 [gemelo] t= 125.85s  DRIFT DETECTADO por CUSUM (DI=1.97, umbral=1.70, CUSUM=41.7); cambio estimado en t=125.45s
+2026-11-04 22:18:59.568 [gemelo] planta offline

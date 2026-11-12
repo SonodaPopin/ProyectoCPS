@@ -1,0 +1,22 @@
+{
+  "totales": {
+    "cambios": 107,
+    "detectados": 103,
+    "absorbidos": 4,
+    "fa": 3,
+    "horas": 3.499847222222223
+  },
+  "kpi": {
+    "KPI1_tasa_deteccion": 100.0,
+    "KPI2_retardo_mediana": 0.8000000000000114,
+    "KPI2_retardo_p90": 5.949999999999909,
+    "KPI3_falsas_alarmas": 0.8571802737421076,
+    "KPI4_error_mediana": 0.44282127997630205,
+    "KPI4_error_p90": 1.7536867785216321,
+    "KPI5_recuperacion_mediana": 8.299999999999955,
+    "KPI6_latencia_p99": null,
+    "KPI7_perdida": null
+  },
+  "semillas": 10,
+  "duracion_s": 900.0
+}
