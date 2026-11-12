@@ -1,0 +1,90 @@
+{
+  "resumen": {
+    "duracion_s": 129.95,
+    "cambios_reales": 2,
+    "cambios_detectados": 2,
+    "cambios_absorbidos": 0,
+    "detecciones_totales": 2,
+    "recalibraciones": 1,
+    "falsas_alarmas": 0,
+    "falsas_alarmas_por_hora": 0.0,
+    "retardo_medio_s": 3.4999999999999964,
+    "retardo_max_s": 5.849999999999994,
+    "fraccion_tiempo_monitoreo": 0.76,
+    "error_final_pct": {
+      "R": 6.766990734983835,
+      "L": 2.0743952044117275,
+      "K": 0.057611186494188615,
+      "J": 1.1065846832804427,
+      "b": 0.17124582439660418
+    },
+    "mensajes_perdidos": 0,
+    "mensajes_rechazados": 0
+  },
+  "por_cambio": [
+    {
+      "t_inicio": 60.0,
+      "param": "J",
+      "factor": 1.6,
+      "tipo": "escalon",
+      "desc": "Se acopla una carga (aumenta la inercia)",
+      "detectado": true,
+      "absorbido": false,
+      "n_recalibraciones": 1,
+      "retardo_deteccion_s": 1.1499999999999986,
+      "error_instante_estimado_s": 0.29999999999999716,
+      "disparado_por": "CUSUM",
+      "tiempo_hasta_recalibrar_s": 8.25,
+      "error_param_cambiado_pct": 1.1065846832804427,
+      "error_max_pct": 2.0743952044117275
+    },
+    {
+      "t_inicio": 120.0,
+      "param": "R",
+      "factor": 1.4,
+      "tipo": "rampa",
+      "desc": "Calentamiento del bobinado",
+      "detectado": true,
+      "absorbido": false,
+      "n_recalibraciones": 0,
+      "retardo_deteccion_s": 5.849999999999994,
+      "error_instante_estimado_s": 5.449999999999989,
+      "disparado_por": "CUSUM"
+    }
+  ],
+  "qos": {
+    "latencia_red_ms": {
+      "n": 2600,
+      "p50": 0.3838539123535156,
+      "p95": 0.5107641220092769,
+      "p99": 0.6662440299987769,
+      "max": 2.0372867584228516,
+      "media": 0.3983778219956618
+    },
+    "latencia_total_ms": {
+      "n": 2600,
+      "p50": 0.4935264587402344,
+      "p95": 0.6678342819213866,
+      "p99": 0.8889532089233368,
+      "max": 18.9511775970459,
+      "media": 0.5228919249314529
+    },
+    "muestras_publicadas": 2600,
+    "muestras_procesadas": 2600,
+    "perdida_pct": 0.0,
+    "inicio": "2026-11-04 22:16:49.567",
+    "fin": "2026-11-04 22:18:59.517"
+  },
+  "falsas_alarmas_t": [],
+  "kpi": {
+    "KPI1_tasa_deteccion": 100.0,
+    "KPI2_retardo_mediana": 3.4999999999999964,
+    "KPI2_retardo_p90": 5.379999999999995,
+    "KPI3_falsas_alarmas": 0.0,
+    "KPI4_error_mediana": 1.1065846832804427,
+    "KPI4_error_p90": 1.1065846832804427,
+    "KPI5_recuperacion_mediana": 8.25,
+    "KPI6_latencia_p99": 0.8889532089233368,
+    "KPI7_perdida": 0.0
+  }
+}
